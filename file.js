@@ -308,3 +308,5 @@ console.log(`O preço total dos clientes da Rua Kulas Light é de ${totalPrice}.
 // 4. Somar a partir do resultado do item 3, todos os valores da chave "price" e retonar um valor total
 
 }
+
+// ---------------------------------------------------------------------------------------------------------
